@@ -1,0 +1,30 @@
+{
+  "name": "permu",
+  "version": "1.0.0",
+  "description": "Get all possible permutations of a given length, and a given array of attributes.",
+  "main": "permu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasaurus/permu.git"
+  },
+  "keywords": [
+    "permutation",
+    "permutated",
+    "permutator",
+    "permute",
+    "combinations"
+  ],
+  "author": {
+    "name": "Jonas Krøner",
+    "email": "krnr@pm.me",
+    "url": "https://krnr.dk"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonasaurus/permu/issues"
+  },
+  "homepage": "https://github.com/jonasaurus/permu#readme"
+}
